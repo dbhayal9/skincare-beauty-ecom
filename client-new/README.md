@@ -72,5 +72,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 cd server
 npm run server
-cd client-ne
+cd client-new
 npm start
